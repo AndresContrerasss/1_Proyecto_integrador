@@ -1,0 +1,9 @@
+# ---------------------------------------------------------------
+# Datos de conexión a la base de datos remota de Neon (PostgreSQL)
+# Cópialos desde el panel de Neon (botón "Connect").
+# Ejemplo de URL:
+#   jdbc:postgresql://ep-nombre-123456.us-east-2.aws.neon.tech/neondb?sslmode=require
+# ---------------------------------------------------------------
+db.url=jdbc:postgresql://TU-HOST.neon.tech/neondb?sslmode=require
+db.usuario=TU_USUARIO
+db.clave=TU_CLAVE
